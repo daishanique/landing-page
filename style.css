@@ -63,7 +63,7 @@ ul {
 
 img {
   height: auto;
-  width: 85%;
+  width: 90%;
 }
 .container{
   display: flex;
@@ -97,6 +97,7 @@ img {
 .subtext {
   text-align: center;
   font-size: 12px;
+  font-weight: bold;
 }
 
 .section-three {
